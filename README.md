@@ -1,8 +1,8 @@
 ### 👋 Hi there, I'm Tejas Kumavat (@tejaskumavat08) 👨‍💻
 
 - 👀 I’m interested in software development, open-source projects, and emerging tech like AI/ML.
-- 🌱 I’m currently learning full-stack development, system design, and contributing to open-source.
-- 💞️ I’m looking to collaborate on impactful projects that help solve real-world problems.
+- 🌱 Currently learning full-stack development, system design, and contributing to open-source.
+- 💞️ I’m looking to collaborate on impactful projects that help solve real-world problems if you are interested then message me on LinkedIn.
 - 📫 How to reach me:  
   - Email: tejaskumavat08@gmail.com  
   - LinkedIn: [linkedin.com/in/tejaskumavat08](https://www.linkedin.com/in/tejaskumavat08)  
