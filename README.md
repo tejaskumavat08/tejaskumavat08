@@ -9,7 +9,7 @@
   - GitHub: [@tejaskumavat08](https://github.com/tejaskumavat08)
 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can spend hours debugging but still forget to save the file sometimes 😅
+- ⚡ Lets build awesome projects together which create a better future for us and users also.
 
 <!---
 tejaskumavat08/tejaskumavat08 is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile. You can click the Preview link to take a look at your changes.
